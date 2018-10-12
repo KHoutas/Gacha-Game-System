@@ -1,0 +1,12 @@
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\bin\Debug\Gacha Game.exe.config
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\bin\Debug\Gacha Game.exe
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\bin\Debug\Gacha Game.pdb
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha Game.csprojAssemblyReference.cache
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha_Game.Form1.resources
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha_Game.Properties.Resources.resources
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha Game.csproj.GenerateResource.cache
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha Game.csproj.CoreCompileInputs.cache
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha Game.exe
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\obj\Debug\Gacha Game.pdb
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\bin\Debug\GachaDatabase.mdf
+c:\users\scarlet\source\repos\Gacha Game\Gacha Game\bin\Debug\GachaDatabase_log.ldf
